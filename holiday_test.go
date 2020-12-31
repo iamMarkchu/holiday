@@ -7,7 +7,7 @@ import (
 
 func TestIsHoliday(t *testing.T) {
 	var (
-		date = "20200328"
+		date = "20211009"
 		expected = true
 		err error
 		out bool
